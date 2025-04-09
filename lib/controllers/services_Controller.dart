@@ -1,5 +1,4 @@
 import 'package:api/controllers/categories_controller.dart';
-import 'package:flutter/cupertino.dart';
 import 'package:get/get.dart';
 import 'package:api/provider/product_provider.dart';
 
